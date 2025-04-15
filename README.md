@@ -13,7 +13,7 @@
 ## 🧪 Tech Stack
 
 - **Frontend:** React (with TypeScript)
-- **Backend:** .NET 6 Web API
+- **Backend:** .NET 66 Web API
 - **Architecture:** Object-Oriented Design with clean separation of concerns
 
 ## 🚀 Getting Started
@@ -21,7 +21,7 @@
 ### Prerequisites
 
 - Node.js & npm/yarn
-- .NET 6 SDK
+- .NET 8 SDK
 
 ### Frontend Setup
 
